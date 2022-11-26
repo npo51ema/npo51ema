@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm lol</h1>
-<h3 align="center">india number one</h3>
+<h1>2k20 goofy</h1>
+<h3>oaoaoa</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">go hit my bests</h3>
 <p align="left">
-<a href="https://instagram.com/npo51mea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="npo51mea" height="30" width="40" /></a>
-<a href="https://www.behance.net/npo51ema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="npo51ema" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/npo51ema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="npo51ema" height="30" width="40" /></a>
 </p>
 
