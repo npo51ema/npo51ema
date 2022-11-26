@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm lol</h1>
 <h3 align="center">india number one</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=npo51ema&label=Profile%20views&color=0e75b6&style=flat" alt="npo51ema" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=npo51ema" alt="npo51ema" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/npo51mea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="npo51mea" height="30" width="40" /></a>
