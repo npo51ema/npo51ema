@@ -3,7 +3,7 @@
 
 <h3 align="left">go hit my bests</h3>
 <p align="left">
-<a href="https://www.leetcode.com/npo51ema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="npo51ema" height="30" width="40" /></a> <p>nu tipa</p>
+<a href="https://www.leetcode.com/npo51ema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="npo51ema" height="30" width="40" /><p>nu tipa</p> </a>
 </p>
 
 <div></div>
